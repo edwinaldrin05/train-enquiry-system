@@ -6,6 +6,20 @@ __pycache__/
 # C extensions
 *.so
 
+# Raw dataset
+data/Dataset1.csv
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.env/
+
 # Distribution / packaging
 .Python
 build/
