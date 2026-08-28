@@ -1,0 +1,10 @@
+Metric,Value
+Total Unique Trains,11113
+Total Unique Stations,8099
+Most Frequent Station,CST-MUMBAI
+Highest Train Frequency,1027
+Longest Journey Distance (km),4260
+Longest Journey Duration (hours),23.916666666666668
+Average Journey Duration (hours),4.600224961756502
+Distance-Duration Correlation,0.6357004122213628
+Maximum Number of Stops,117
