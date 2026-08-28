@@ -1,7 +1,7 @@
 # 🚆 Train Enquiry System
 
 <p align="center">
-  <img src="overview_train.png" alt="Train Enquiry System Overview" width="100%">
+  <img src="train enquery/overview_train.png" alt="Train Enquiry System Overview" width="100%">
 </p>
 
 <p align="center">
